@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irish-pearl
 - 👀 I’m interested in girls
-- 🌱 I’m currently learning subject taught in school
+- 🌱 I’m currently learning subjects taught in school
 - 💞️ I’m looking to collaborate on my dream social-app for a fandom I actively participate in.
 
 <!---
