@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently a high school student
+- 🔭 I’m a high school student
 - 🌱 I’m currently learning javascript
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: After learning about html and css, I'm about to cry about javascript
