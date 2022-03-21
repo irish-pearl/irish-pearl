@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m a high school student
-- 🌱 I’m currently learning javascript
+- 🔭 I’m a junior high school student
+- 🌱 I’m currently in Philippines
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: i'm not fun
 
