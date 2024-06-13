@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m a senior high school student
+- 🔭 I’m a first year college student
 - 🌱 I currently reside in Philippines
 
 
